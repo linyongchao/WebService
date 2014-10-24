@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <web-app xmlns:javaee="http://java.sun.com/xml/ns/javaee"
 	xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
-	<javaee:display-name>Demo</javaee:display-name>
+	<javaee:display-name>WS</javaee:display-name>
 	<listener>
 		<listener-class>
 			com.sun.xml.ws.transport.http.servlet.WSServletContextListener
